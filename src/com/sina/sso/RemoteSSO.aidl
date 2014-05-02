@@ -4,4 +4,3 @@ interface RemoteSSO {
 	String getPackageName();
 	String getActivityName();
 }
-
